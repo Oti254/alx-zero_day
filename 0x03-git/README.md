@@ -1,1 +1,1 @@
-The first task for git assignment
+Doing the first task
